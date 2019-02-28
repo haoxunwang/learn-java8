@@ -1,0 +1,2 @@
+hello lambda!
+method we want to refactor to make more flexible.
