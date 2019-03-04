@@ -1,6 +1,6 @@
 ## learn-java8
 
-This repository just only for showing the java8 source code base on [Github/Java8InAction](https://github.com/java8/Java8InAction).
+This repository is just only for showing the java8 source code base on [Github/Java8InAction](https://github.com/java8/Java8InAction).
 
 ## Change Log
 
