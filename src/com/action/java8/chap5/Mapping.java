@@ -74,6 +74,7 @@ public class Mapping {
                 .collect(toList());
 
         List<int[]> pairs = numbers1.stream()
+                // map: Stream<Stream<int[]>> flatMap: Stream<int[]>
                 .flatMap(i -> numbers2.stream().map(j -> new int[]{i, j}))
                 .collect(toList());
         pairs.forEach(System.out::println);
