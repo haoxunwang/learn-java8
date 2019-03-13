@@ -1,4 +1,4 @@
-package com.action.java8.chp6;
+package com.action.java8.chap6;
 
 import java.util.Comparator;
 import java.util.List;

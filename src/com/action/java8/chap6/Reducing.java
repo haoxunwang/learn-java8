@@ -1,6 +1,6 @@
-package com.action.java8.chp6;
+package com.action.java8.chap6;
 
-import static com.action.java8.chp6.Dish.menu;
+import static com.action.java8.chap6.Dish.menu;
 import static java.util.stream.Collectors.reducing;
 
 /**
