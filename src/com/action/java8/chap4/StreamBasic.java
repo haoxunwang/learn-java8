@@ -67,6 +67,4 @@ public class StreamBasic {
                 .map(Dish::getName)
                 .collect(Collectors.toList());
     }
-
-
 }

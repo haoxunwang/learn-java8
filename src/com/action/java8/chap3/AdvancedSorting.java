@@ -1,10 +1,10 @@
 package com.action.java8.chap3;
 
+import com.action.java8.chap3.Sorting.Apple;
+
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
-
-import com.action.java8.chap3.Sorting.Apple;
 
 /**
  * Created by Nelson on 2019/3/1.

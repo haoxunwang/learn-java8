@@ -45,6 +45,7 @@ public class ExecuteAround {
     }
 
     private static String processFile(BufferedReaderProcessor p) throws IOException {
+        // Java7 中的带资源的try 语句，已经简化了代码，因此不需要显示地关闭资源了！
         try (BufferedReader br = new BufferedReader(new FileReader("src/com/action/java8/chap3/data.txt"))) {
             return p.process(br);
         }
